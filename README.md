@@ -1,8 +1,6 @@
 For creating workspace run cmd
 =
 Terraform workspace create dev,
-<button onclick="navigator.clipboard.writeText('ansible-playbook install-argocd.yaml')">Copy</button>
-`ansible-playbook install-argocd.yaml`
 
 Terraform workspace create dev,
 
