@@ -1,13 +1,11 @@
 For creating workspace run cmd
 =
-Terraform workspace create dev,
+Terraform workspace new dev,
 
-Terraform workspace create dev,
-
-Terraform workspace create stage,
+Terraform workspace new stage,
 
 
-Terraform workspace create prod
+Terraform workspace new prod
 
 
 For switching into workspaces run cmd
